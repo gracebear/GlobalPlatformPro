@@ -36,6 +36,7 @@ Also in small quantities. In alphabetical order:
  * [MoTechno](http://www.motechno.com/) (DE)
  * [SmartcardFocus](http://www.smartcardfocus.com/) (UK, US)
  * [SmartcardSource](http://www.smartcardsource.com/) (CA)
+ * [JavacardOS](http://www.javacardos.com/)(US)
 
 ## Checking for compatibility
 
